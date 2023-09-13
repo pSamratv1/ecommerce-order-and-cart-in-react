@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ecommerce-order-and-cart-in-react/static/css/main.00cabaa3.css",
+    "main.js": "/ecommerce-order-and-cart-in-react/static/js/main.f0e82245.js",
+    "static/media/cart.svg": "/ecommerce-order-and-cart-in-react/static/media/cart.99af1c192589ee4f46db9535fbbceb1d.svg",
+    "index.html": "/ecommerce-order-and-cart-in-react/index.html",
+    "main.00cabaa3.css.map": "/ecommerce-order-and-cart-in-react/static/css/main.00cabaa3.css.map",
+    "main.f0e82245.js.map": "/ecommerce-order-and-cart-in-react/static/js/main.f0e82245.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00cabaa3.css",
+    "static/js/main.f0e82245.js"
+  ]
+}
